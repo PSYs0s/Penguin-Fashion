@@ -1,0 +1,54 @@
+html,body{
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+}
+h1,h3,h5{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+span{
+    color: #FA804C;
+}
+.penguin-card{
+    border: 0;
+}
+.penguin-card-footer{
+    background-color: white;
+    border: 0;
+}
+.casual-shoes-bg{
+    background-color:  #F1F1F1;
+    border-radius: 1em;
+}
+.card-radius{
+    border-radius: 1em;
+}
+.img-scaling{
+    position: relative;
+    top: 25px;
+}
+.body-text{
+    position: relative;
+    left: -50px;
+}
+.body-text p{
+    font-size: .75rem;  
+}
+@media (max-width: 768px){
+    .product-responsive-margin{
+        margin-top: 400px;
+    }
+    .mobile-viwe-title, .card-img-center{
+        text-align: center;
+    }
+    .responsive-scale{
+        padding-top: 100px;
+    }
+    .body-text{
+        padding-top: 50px;
+        left: 0;
+    }
+    .body-text p{
+        font-size: 1rem;   
+    }
+}
