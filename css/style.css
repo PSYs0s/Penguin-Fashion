@@ -19,9 +19,6 @@ span{
     background-color: white;
     border: 0;
 }
-.container-size{
-    margin-top: 150px;
-}
 .casual-shoes-bg{
     background-color:  #F1F1F1;
     border-radius: 1em;
@@ -42,7 +39,7 @@ span{
 }
 @media (max-width: 768px){
     .container-size{
-        margin-top: 400px;
+        margin-top: 350px;
     }
     .logo img{
         width: 250px;
@@ -63,7 +60,7 @@ span{
 }
 @media (max-width: 576px) {
     .container-size{
-        margin-top: 600px;
+    
     }
     .logo img{
         width: 200px;
