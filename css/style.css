@@ -16,6 +16,9 @@ span{
     background-color: white;
     border: 0;
 }
+.container-size{
+    margin-top: 150px;
+}
 .casual-shoes-bg{
     background-color:  #F1F1F1;
     border-radius: 1em;
@@ -35,7 +38,7 @@ span{
     font-size: .75rem;  
 }
 @media (max-width: 768px){
-    .product-responsive-margin{
+    .container-size{
         margin-top: 400px;
     }
     .mobile-viwe-title, .card-img-center{
