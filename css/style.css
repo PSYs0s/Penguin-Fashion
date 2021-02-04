@@ -38,9 +38,6 @@ span{
     font-size: .75rem;  
 }
 @media (max-width: 768px){
-    .container-size{
-        margin-top: 350px;
-    }
     .logo img{
         width: 250px;
     }
@@ -59,9 +56,6 @@ span{
     }
 }
 @media (max-width: 576px) {
-    .container-size{
-        margin-top: 450px;
-    }
     .logo img{
         width: 200px;
     }
